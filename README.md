@@ -1,6 +1,6 @@
 # Banking Customer Segmentation and Marketing Strategy
 
-![Project Image]([insert_image_url_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobal.hitachi-solutions.com%2Fblog%2Fcustomer-segmentation-in-banking%2F&psig=AOvVaw1m3qHBGCd9YzJJ4jxpQZfL&ust=1697632716169000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDjmu6M_YEDFQAAAAAdAAAAABAE))
+![Project Image](https://global.hitachi-solutions.com/wp-content/uploads/2022/01/image-12.png)
 
 ---
 
