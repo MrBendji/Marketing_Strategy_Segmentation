@@ -11,6 +11,7 @@
 - [Data Source](#data-source)
 - [Methods Used](#methods-used)
 - [Technologies](#technologies)
+- [Google Colab Notebook](#google-colab-notebook)
 - [Data Preprocessing](#data-preprocessing)
 - [Customer Segmentation](#customer-segmentation)
 - [Profiling Clusters](#profiling-clusters)
@@ -48,7 +49,7 @@ The data used for this project is sourced from Kaggle, a popular platform for da
 
 - Data Preprocessing
 - Customer Segmentation
-- K-Modes Clustering
+- K-Prototype as Clustering algorithm
 - Data Profiling
 - Marketing Strategy Development
 
@@ -63,6 +64,12 @@ The data used for this project is sourced from Kaggle, a popular platform for da
 - Scikit-Learn
 - Seaborn
 - Matplotlib
+
+---
+
+## Google Colab Notebook
+
+The project notebook is available for review on Google Colab. You can access the notebook [here](https://colab.research.google.com/drive/16LPkwOO5uovFYb0xO6NJKItYeZfiAFke).
 
 ---
 
@@ -101,4 +108,3 @@ This project is complete and has successfully achieved the goals of customer seg
 Special thanks to Kaggle for providing the dataset used in this project and to the open-source community for the tools and libraries that made this analysis possible.
 
 ---
-
