@@ -29,14 +29,17 @@ This project focuses on customer segmentation and the development of targeted ma
 
 ## Project Objective
 
-The primary objective of this project is to leverage data analytics and machine learning to address the issue of customer churn in the telecom industry, using the dataset obtained from Kaggle. Specifically, our goals are as follows:
+The primary goal of this project is to use customer segmentation techniques to better understand our bank's customers. By grouping customers into different categories based on their characteristics, we want to:
 
-1. Develop a predictive model: Build a machine learning model capable of predicting which customers are likely to churn in the near future.
+1. **Improve Tailored Marketing:** Create marketing strategies that are just right for each group of customers, so we can better keep them as clients.
 
-2. Improve customer retention: Implement targeted retention strategies based on the model's predictions to reduce churn rates and increase customer loyalty.
+2. **Make Better Business Choices:** Make smarter decisions about our bank's products and services, based on what each group of customers likes and needs.
 
-3. Optimize resources: By accurately identifying customers at risk of churn, we aim to optimize resource allocation and reduce customer acquisition costs.
+3. **Offer a Better Experience:** Provide services and products that fit the specific needs of each group of customers.
 
+4. **Increase Our Bank's Success:** Find opportunities to suggest other products or services that each group of customers might be interested in.
+
+5. **Build Stronger Customer Relationships:** Make our clients happy by giving them exactly what they need.
 ---
 
 ## Data Source
@@ -81,7 +84,7 @@ In the data preprocessing stage, we prepare the dataset for clustering and analy
 
 ## Customer Segmentation
 
-We employ the K-Modes clustering algorithm to segment customers into distinct clusters based on various attributes such as job type, marital status, education, and more. This helps us understand the diversity among customers and tailor marketing strategies for each group.
+We employ the  K-Prototype clustering algorithm to segment customers into distinct clusters based on various attributes such as job type, marital status, education, and more. This helps us understand the diversity among customers and tailor marketing strategies for each group.
 
 ---
 
