@@ -78,7 +78,7 @@ The project notebook is available for review on Google Colab. You can access the
 
 ## Data Preprocessing
 
-In the data preprocessing stage, we prepare the dataset for clustering and analysis. This includes handling missing values, encoding categorical variables, scaling numerical features, and addressing outliers.
+In the data preprocessing stage, we prepare the dataset for clustering and analysis. This includes handling missing values, scaling numerical features, and addressing outliers.
 
 ---
 
